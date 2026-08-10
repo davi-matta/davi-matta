@@ -33,7 +33,7 @@ Bem-vindo ao meu mainframe. Sou estudante de **Sistemas de Informação** na **U
 <div align="center">
   <h3><b>» Mobile & Frontend «</b></h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,angular,react,js,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,angular,react,ts,js,html,css&theme=dark" />
   </a>
   
   <br><br>
