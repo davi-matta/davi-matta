@@ -47,7 +47,7 @@ Bem-vindo ao meu mainframe. Sou estudante de **Sistemas de Informação** na **U
   
   <h3><b>» Tools & OS «</b></h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,discord,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,discord,postman&theme=dark" />
   </a>
 </div>
 
