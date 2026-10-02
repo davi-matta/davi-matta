@@ -22,13 +22,13 @@
 
 Bem-vindo ao meu mainframe. Sou estudante de **Sistemas de Informação** na **Universidade Federal Fluminense (UFF)**. Atualmente, foco em desenvolvimento moderno, tendo maior foco no desenvolvimento de interfaces no frontend, mantendo sempre um olhar atento à segurança da informação.
 
-*   🎓 **Acadêmico:** Cursando o 5º período na UFF (Previsão de conclusão: 2028/2029).
-*   💼 **Profissional:** Em fase de treinamento.
-*   🔒 **Pesquisa & Foco:** Backend, Frontend, Sistemas Operacionais e Propriedade Intelectual em Software.
+*   **Acadêmico:** Cursando o 5º período na UFF (Previsão de conclusão: 2028/2029).
+*   **Profissional:** Em fase de treinamento.
+*   **Pesquisa & Foco:** Backend, Frontend, Sistemas Operacionais e Propriedade Intelectual em Software.
 
 ---
 
-## ⚙️ TECH_STACK // Arquitetura do Sistema
+## FERRAMENTAS
 
 <div align="center">
   <h3><b>» Mobile & Frontend «</b></h3>
@@ -53,7 +53,7 @@ Bem-vindo ao meu mainframe. Sou estudante de **Sistemas de Informação** na **U
 
 ---
 
-## 📂 PROJETOS_ATIVOS // Módulos Carregados
+## PROJETOS
 
 <table>
   <tr>
@@ -62,15 +62,15 @@ Bem-vindo ao meu mainframe. Sou estudante de **Sistemas de Informação** na **U
       <p align="center">Site criado em grupo (3 pessoas) que simula um site de aluguel de carros fictícios. Foi criado utilizando<b> Javascript, Html e CSS</b>.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚙️ IN Junior Labs</h3>
-      <p align="center">Resolução de dinâmicas, projetos técnicos e desafios de lógica utilizando <b>JavaScript</b> no programa de desenvolvimento.</p>
+      <h3 align="center">⚙️ Paralelismo de threads</h3>
+      <p align="center">Série de testes em baixo nível.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🎯 DIRETRIZES_ATUAIS // Terminal de Objetivos
+## OBJETIVOS
 
 ```console
 [+] Aprofundar desenvolvimento de APIs robustas com NestJS e Python
